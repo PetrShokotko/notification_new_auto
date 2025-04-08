@@ -1,70 +1,69 @@
+const TELEGRAM_BOT_TOKEN = '7883521251:AAHWwngD4BKBWlwKaecIYUejU62LLpkHpeM';
+const GROUP_CHAT_ID = '-1002666452738';
 const axios = require('axios');
 
-// Your new Telegram bot token
-const TELEGRAM_BOT_TOKEN = '7883521251:AAHWwngD4BKBWlwKaecIYUejU62LLpkHpeM';
-// Your chat ID (group ID)
-const GROUP_CHAT_ID = '-1002666452738';
-
-// Function to send a message to Telegram
-async function sendTelegramMessage(link, phone, count) {
-    const message = `Объявление:\nСсылка: ${link}\nКоличество: ${count}\nТелефон: ${phone}`;
-    
+async function sendMessageToTelegram(message) {
     const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
     
     try {
-        const response = await axios.post(url, {
+        await axios.post(url, {
             chat_id: GROUP_CHAT_ID,
             text: message,
-            parse_mode: 'Markdown'
+            parse_mode: 'HTML'
         });
-
-        console.log('Сообщение отправлено:', response.data);
+        console.log('Сообщение отправлено в Telegram');
     } catch (error) {
-        console.error('Ошибка при отправке сообщения:');
-        if (error.response) {
-            console.error('Статус ошибки:', error.response.status);
-            console.error('Данные ошибки:', error.response.data);
-        } else {
-            console.error('Ошибка:', error.message);
-        }
+        console.error('Ошибка при отправке сообщения:', error.message);
     }
 }
 
-// Example usage of the function
-const exampleLink = 'https://example.com/your-announcement';
-const examplePhone = '0979097544';
-const exampleCount = 5;
-
-sendTelegramMessage(exampleLink, examplePhone, exampleCount);
-// const axios = require('axios');
-
-// // Ваш токен Telegram-бота
-// const TELEGRAM_BOT_TOKEN = '7391185906:AAFio2fK367I-djKzl9Nz5Hvw91h46-ob8U';
-// // Ваш ID чата (можно использовать @username или ID чата)
+module.exports = { sendMessageToTelegram };
+// // _______________________________
+// const TELEGRAM_BOT_TOKEN = '7883521251:AAHWwngD4BKBWlwKaecIYUejU62LLpkHpeM';
+// // Ваш ID чата (группы)
 // const GROUP_CHAT_ID = '-1002666452738';
+// const axios = require('axios'); // Используем axios для выполнения HTTP запросов
 
-// // Функция отправки сообщения в Telegram
-// async function sendTelegramMessage(link, phone, count) {
-//     const message = `Объявление:\nСсылка: ${link}\nКоличество: ${count}\nТелефон: ${phone}`;
-    
-//     const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
-    
-//     try {
-//         const response = await axios.post(url, {
-//             chat_id: GROUP_CHAT_ID, // Исправлено с CHAT_ID на GROUP_CHAT_ID
-//             text: message,
-//             parse_mode: 'Markdown'
-//         });
+// function sendTelegramNotification(url, phoneNumber, count) {
+//     console.log(`Отправка уведомления:\nURL: ${url}, Номер телефона: ${phoneNumber}, Количество объявлений: ${count}`);
 
-//         console.log('Сообщение отправлено:', response.data);
-//     } catch (error) {
-//         console.error('Ошибка при отправке сообщения:', error.message);
-//     }
+//     const notificationURL = url;
+//     const phone = phoneNumber;
+//     const notificationCount = count;
+
+//     const message = `🔍 Знайдено нову пропозицію на AUTO.RIA!\n\n` +
+//                     `📍 URL: ${notificationURL}\n` +
+//                     `📞 Номер телефону: ${phone}\n` +
+//                     `📊 Кількість оголошень: ${notificationCount}`;
+
+//     // Вывод сообщения в консоль
+//     console.log("Сформированное сообщение для Telegram:\n", message);
+
+//     // Отправка сообщения в Telegram
+//     sendMessageToTelegram(message);
 // }
 
-// // Пример использования функции
-// const exampleLink = 'https://example.com/your-announcement';
-// const examplePhone = '0979097544';
-// const exampleCount = 5;
+// function sendMessageToTelegram(message) {
+//     const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
+//     const data = {
+//         chat_id: GROUP_CHAT_ID,
+//         text: message,
+//         parse_mode: 'HTML', // Изменено на HTML для избежания проблем с Markdown
+//     };
 
-// sendTelegramMessage(exampleLink, examplePhone, exampleCount);
+//     axios.post(url, data)
+//         .then(response => {
+//             console.log('Сообщение отправлено в Telegram:', response.data);
+//         })
+//         .catch(error => {
+//             console.error('Ошибка при отправке сообщения в Telegram:', error);
+//         });
+// }
+
+// // Экспортируем функцию
+// module.exports = { sendTelegramNotification };
+// ____________________-
+// const TELEGRAM_BOT_TOKEN = '7883521251:AAHWwngD4BKBWlwKaecIYUejU62LLpkHpeM';
+// // Ваш ID чата (группы)
+// const GROUP_CHAT_ID = '-1002666452738';
+// _________________________________________________________

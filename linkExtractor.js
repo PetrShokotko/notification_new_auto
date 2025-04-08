@@ -25,9 +25,9 @@ async function openLinks(links) {
                 const phoneNumber = await extractPhoneNumbers(page);
                 console.log(`Номер телефона для ${link.url}:`, phoneNumber);
 
-                // Теперь вызываем checkPhoneNumber с номером телефона
-                await checkPhoneNumber(phoneNumber);
-                
+                // Теперь вызываем checkPhoneNumber с номером телефона и URL
+                await checkPhoneNumber(phoneNumber, link.url); // Передаем номер телефона и URL
+
                 await delay(2000);
                 await page.close();
                 await browser.close();
