@@ -191,7 +191,7 @@ async function main(searchUrl) {
 }
 
 // URL для поиска
-const searchUrl = 'https://auto.ria.com/uk/search/?indexName=auto,order_auto,newauto_search&year[0].gte=2004&year[0].lte=2022&categories.main.id=1&country.import.usa.not=-1&region.id[0]=14&price.USD.gte=3000&price.USD.lte=20000&price.currency=1&mileage.lte=250&top=1&abroad.not=0&custom.not=1&page=0&size=100';
+const searchUrl = 'https://auto.ria.com/uk/search/?indexName=auto,order_auto,newauto_search&year[0].gte=2004&year[0].lte=2022&categories.main.id=1&country.import.usa.not=-1&region.id[0]=11&price.USD.gte=3000&price.USD.lte=20000&price.currency=1&mileage.lte=250&top=1&abroad.not=0&custom.not=1&page=0&size=100';
 
 // Функция для бесконечного цикла с перезапуском
 async function runWithRestart() {
