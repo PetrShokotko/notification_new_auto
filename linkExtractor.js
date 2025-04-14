@@ -17,7 +17,7 @@ async function openLinks(links) {
             if (link.url) {
                 console.log(`Открываю ссылку: ${link.url}`);
                 
-                const browser = await puppeteer.launch({ headless: false });
+                const browser = await puppeteer.launch({ headless: true });
                 const page = await browser.newPage();
                 await page.goto(link.url, { waitUntil: 'networkidle2' });
 

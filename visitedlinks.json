@@ -1,387 +1,1036 @@
 [
   {
-    "url": "https://auto.ria.com/uk/auto_kia_soul_37953585.html",
-    "currentPrice": "7 950",
-    "dateTime": "2025-04-01T08:39:28.721Z",
-    "firstSeen": "2025-04-01T08:39:28.721Z",
-    "updated": false,
-    "phone": "0953177861",
-    "count": 3
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_kia_sorento_37986225.html",
-    "currentPrice": "15 300",
-    "dateTime": "2025-04-01T08:39:28.733Z",
-    "firstSeen": "2025-04-01T08:39:28.733Z",
-    "updated": false,
-    "phone": "0977518308",
-    "count": 7
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_honda_cr_v_38038763.html",
-    "currentPrice": "13 800",
-    "dateTime": "2025-04-01T08:39:28.734Z",
-    "firstSeen": "2025-04-01T08:39:28.734Z",
-    "updated": false,
-    "phone": "0974110451",
-    "count": 11
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_toyota_camry_38085964.html",
-    "currentPrice": "12 499",
-    "dateTime": "2025-04-01T08:39:28.735Z",
-    "firstSeen": "2025-04-01T08:39:28.735Z",
-    "updated": false,
-    "phone": "0631003933",
-    "count": 2
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_peugeot_107_37938899.html",
-    "currentPrice": "5 500",
-    "dateTime": "2025-04-01T08:39:28.735Z",
-    "firstSeen": "2025-04-01T08:39:28.735Z",
-    "updated": false,
-    "phone": "0938868102",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_mitsubishi_outlander_38089580.html",
-    "currentPrice": "12 500",
-    "dateTime": "2025-04-01T08:39:28.736Z",
-    "firstSeen": "2025-04-01T08:39:28.736Z",
-    "updated": false,
-    "phone": "0987456000",
-    "count": 471
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_vaz_lada_2110_35356875.html",
-    "currentPrice": "2 800",
-    "dateTime": "2025-04-01T08:39:28.736Z",
-    "firstSeen": "2025-04-01T08:39:28.736Z",
-    "updated": false,
-    "phone": "0684726458",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_toyota_highlander_31160261.html",
-    "currentPrice": "19 000",
-    "dateTime": "2025-04-01T08:39:28.736Z",
-    "firstSeen": "2025-04-01T08:39:28.736Z",
-    "updated": false,
-    "phone": "0984237929",
-    "count": 0
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_chevrolet_cruze_37625732.html",
-    "currentPrice": "6 800",
-    "dateTime": "2025-04-01T08:39:28.737Z",
-    "firstSeen": "2025-04-01T08:39:28.737Z",
-    "updated": false,
-    "phone": "0987456000",
-    "count": 471
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_infiniti_fx_37_37932101.html",
-    "currentPrice": "17 900",
-    "dateTime": "2025-04-01T08:39:28.737Z",
-    "firstSeen": "2025-04-01T08:39:28.737Z",
-    "updated": false,
-    "phone": "0507457000",
-    "count": 58
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_skoda_octavia_35999507.html",
-    "currentPrice": "8 750",
-    "dateTime": "2025-04-01T08:39:28.738Z",
-    "firstSeen": "2025-04-01T08:39:28.738Z",
-    "updated": false,
-    "phone": "0633933960",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_audi_a6_38088863.html",
-    "currentPrice": "15 999",
-    "dateTime": "2025-04-01T08:39:28.738Z",
-    "firstSeen": "2025-04-01T08:39:28.738Z",
-    "updated": false,
-    "phone": "0637504269",
-    "count": 6
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_vaz_lada_2170_priora_36985499.html",
-    "currentPrice": "3 300",
-    "dateTime": "2025-04-01T08:39:28.738Z",
-    "firstSeen": "2025-04-01T08:39:28.738Z",
-    "updated": false,
-    "phone": "0974994088",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_zaz_lanos_34989061.html",
-    "currentPrice": "2 700",
-    "dateTime": "2025-04-01T08:39:28.738Z",
-    "firstSeen": "2025-04-01T08:39:28.738Z",
-    "updated": false,
-    "phone": "0503626990",
-    "count": 3
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_mercedes_benz_a_class_36984852.html",
-    "currentPrice": "7 999",
-    "dateTime": "2025-04-01T08:39:28.739Z",
-    "firstSeen": "2025-04-01T08:39:28.739Z",
-    "updated": false,
-    "phone": "0635952914",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_volvo_s60_34478630.html",
-    "currentPrice": "10 500",
-    "dateTime": "2025-04-01T08:39:28.739Z",
-    "firstSeen": "2025-04-01T08:39:28.739Z",
-    "updated": false,
-    "phone": "0979106108",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_volkswagen_jetta_38088788.html",
-    "currentPrice": "8 200",
-    "dateTime": "2025-04-01T08:39:28.739Z",
-    "firstSeen": "2025-04-01T08:39:28.739Z",
-    "updated": false,
-    "phone": "0961222480",
-    "count": 3
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_audi_a4_37936489.html",
-    "currentPrice": "11 500",
-    "dateTime": "2025-04-01T08:39:28.739Z",
-    "firstSeen": "2025-04-01T08:39:28.739Z",
-    "updated": false,
-    "phone": "0688095394",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_kia_optima_34988627.html",
-    "currentPrice": "9 000",
-    "dateTime": "2025-04-01T08:39:28.740Z",
-    "firstSeen": "2025-04-01T08:39:28.740Z",
-    "updated": false,
-    "phone": "0934545902",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_nissan_murano_35843521.html",
-    "currentPrice": "11 500",
-    "dateTime": "2025-04-01T08:39:28.740Z",
-    "firstSeen": "2025-04-01T08:39:28.740Z",
-    "updated": false,
-    "phone": "0982176821",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_toyota_avensis_33076027.html",
-    "currentPrice": "10 000",
-    "dateTime": "2025-04-01T08:39:28.740Z",
-    "firstSeen": "2025-04-01T08:39:28.740Z",
-    "updated": false,
-    "phone": "0634878184",
-    "count": 0
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_ssangyong_korando_36983289.html",
-    "currentPrice": "11 500",
-    "dateTime": "2025-04-01T08:39:28.740Z",
-    "firstSeen": "2025-04-01T08:39:28.740Z",
-    "updated": false,
-    "phone": "0939693373",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_jeep_grand_cherokee_37930944.html",
-    "currentPrice": "15 999",
-    "dateTime": "2025-04-01T08:39:28.741Z",
-    "firstSeen": "2025-04-01T08:39:28.741Z",
-    "updated": false,
-    "phone": "0989867939",
-    "count": 11
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_volkswagen_golf_37935931.html",
-    "currentPrice": "8 500",
-    "dateTime": "2025-04-01T08:39:28.741Z",
-    "firstSeen": "2025-04-01T08:39:28.741Z",
-    "updated": false,
-    "phone": "0974793313",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_renault_scenic_37422733.html",
-    "currentPrice": "7 700",
-    "dateTime": "2025-04-01T08:39:28.741Z",
-    "firstSeen": "2025-04-01T08:39:28.741Z",
-    "updated": false,
-    "phone": "0688388789",
-    "count": 2
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_renault_megane_33687278.html",
-    "currentPrice": "7 300",
-    "dateTime": "2025-04-01T08:39:28.741Z",
-    "firstSeen": "2025-04-01T08:39:28.741Z",
-    "updated": false,
-    "phone": "0675648125",
-    "count": 2
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_vaz_lada_2170_priora_33236107.html",
-    "currentPrice": "3 000",
-    "dateTime": "2025-04-01T08:39:28.742Z",
-    "firstSeen": "2025-04-01T08:39:28.742Z",
-    "updated": false,
-    "phone": "0675674255",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_zaz_lanos_37129726.html",
-    "currentPrice": "3 799",
-    "dateTime": "2025-04-01T08:39:28.742Z",
-    "firstSeen": "2025-04-01T08:39:28.742Z",
-    "updated": false,
-    "phone": "0938750175",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_renault_laguna_36701450.html",
-    "currentPrice": "6 150",
-    "dateTime": "2025-04-01T08:39:28.742Z",
-    "firstSeen": "2025-04-01T08:39:28.742Z",
-    "updated": false,
-    "phone": "0935084981",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_peugeot_107_36358170.html",
-    "currentPrice": "4 700",
-    "dateTime": "2025-04-01T08:39:28.742Z",
-    "firstSeen": "2025-04-01T08:39:28.742Z",
-    "updated": false,
-    "phone": "0955016543",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_vaz_lada_2110_37935488.html",
-    "currentPrice": "2 000",
-    "dateTime": "2025-04-01T08:39:28.742Z",
-    "firstSeen": "2025-04-01T08:39:28.742Z",
-    "updated": false,
-    "phone": "0976167997",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_porsche_cayenne_37935236.html",
-    "currentPrice": "15 300",
-    "dateTime": "2025-04-01T08:39:28.743Z",
-    "firstSeen": "2025-04-01T08:39:28.743Z",
-    "updated": false,
-    "phone": "0506293557",
-    "count": 3
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_mazda_cx_7_37797262.html",
-    "currentPrice": "9 600",
-    "dateTime": "2025-04-01T08:39:28.743Z",
-    "firstSeen": "2025-04-01T08:39:28.743Z",
-    "updated": false,
-    "phone": "0956874065",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_35532994.html",
-    "currentPrice": "10 000",
-    "dateTime": "2025-04-01T08:39:28.743Z",
-    "firstSeen": "2025-04-01T08:39:28.743Z",
-    "updated": false,
-    "phone": "0960955588",
-    "count": 1
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_bmw_x1_31179143.html",
-    "currentPrice": "11 000",
-    "dateTime": "2025-04-01T08:39:28.743Z",
-    "firstSeen": "2025-04-01T08:39:28.743Z",
-    "updated": false,
-    "phone": "0970798588",
-    "count": 4
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_ford_focus_38086673.html",
+    "url": "https://auto.ria.com/uk/auto_renault_logan_37834165.html",
     "currentPrice": "5 000",
-    "dateTime": "2025-04-01T08:39:28.743Z",
-    "firstSeen": "2025-04-01T08:39:28.743Z",
+    "dateTime": "2025-04-08T12:32:36.407Z",
+    "firstSeen": "2025-04-08T12:32:36.407Z",
     "updated": false,
-    "phone": "0674411911",
-    "count": 4
-  },
-  {
-    "url": "https://auto.ria.com/uk/auto_zaz_lanos_35173028.html",
-    "currentPrice": "4 300",
-    "dateTime": "2025-04-01T08:39:28.744Z",
-    "firstSeen": "2025-04-01T08:39:28.744Z",
-    "updated": false,
-    "phone": "0971947464",
+    "phone": "0974025271",
     "count": 1
   },
   {
-    "url": "https://auto.ria.com/uk/auto_fiat_qubo_33676680.html",
-    "currentPrice": "6 500",
-    "dateTime": "2025-04-01T08:39:28.744Z",
-    "firstSeen": "2025-04-01T08:39:28.744Z",
+    "url": "https://auto.ria.com/uk/auto_skoda_fabia_38123867.html",
+    "currentPrice": "5 400",
+    "dateTime": "2025-04-08T12:32:36.410Z",
+    "firstSeen": "2025-04-08T12:32:36.410Z",
     "updated": false,
-    "phone": "0954620150",
+    "phone": "0930145396",
     "count": 1
   },
   {
-    "url": "https://auto.ria.com/uk/auto_toyota_venza_38086031.html",
-    "currentPrice": "11 200",
-    "dateTime": "2025-04-01T08:39:28.744Z",
-    "firstSeen": "2025-04-01T08:39:28.744Z",
+    "url": "https://auto.ria.com/uk/auto_skoda_octavia_37834328.html",
+    "currentPrice": "5 700",
+    "dateTime": "2025-04-08T12:32:36.411Z",
+    "firstSeen": "2025-04-08T12:32:36.411Z",
+    "updated": false,
+    "phone": "0635371155",
+    "count": 3
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mitsubishi_lancer_38120634.html",
+    "currentPrice": "6 350",
+    "dateTime": "2025-04-08T12:32:36.412Z",
+    "firstSeen": "2025-04-08T12:32:36.412Z",
+    "updated": false,
+    "phone": "0637548374",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_skoda_octavia_36740603.html",
+    "currentPrice": "7 100",
+    "dateTime": "2025-04-08T12:32:36.412Z",
+    "firstSeen": "2025-04-08T12:32:36.412Z",
+    "updated": false,
+    "phone": "0689332979",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_focus_32328981.html",
+    "currentPrice": "9 000",
+    "dateTime": "2025-04-08T12:32:36.413Z",
+    "firstSeen": "2025-04-08T12:32:36.413Z",
     "updated": false
   },
   {
-    "url": "https://auto.ria.com/uk/auto_vaz_lada_2114_samara_38085132.html",
-    "currentPrice": "2 400",
-    "dateTime": "2025-04-01T08:39:28.744Z",
-    "firstSeen": "2025-04-01T08:39:28.744Z",
+    "url": "https://auto.ria.com/uk/auto_mazda_3_37819298.html",
+    "currentPrice": "9 999",
+    "dateTime": "2025-04-08T12:32:36.413Z",
+    "firstSeen": "2025-04-08T12:32:36.413Z",
     "updated": false,
-    "phone": "0632053480",
-    "count": 31
+    "phone": "0736448195",
+    "count": 114
   },
   {
-    "url": "https://auto.ria.com/uk/auto_renault_kangoo_37278544.html",
-    "currentPrice": "7 800",
-    "dateTime": "2025-04-01T08:39:28.744Z",
-    "firstSeen": "2025-04-01T08:39:28.744Z",
+    "url": "https://auto.ria.com/uk/auto_ford_focus_33990285.html",
+    "currentPrice": "10 500",
+    "dateTime": "2025-04-08T12:32:36.413Z",
+    "firstSeen": "2025-04-08T12:32:36.413Z",
     "updated": false,
-    "phone": "0679016817",
+    "phone": "0977200485",
     "count": 1
   },
   {
-    "url": "https://auto.ria.com/uk/auto_chevrolet_captiva_35532489.html",
-    "currentPrice": "12 900",
-    "dateTime": "2025-04-01T08:39:28.745Z",
-    "firstSeen": "2025-04-01T08:39:28.745Z",
+    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_37316503.html",
+    "currentPrice": "11 300",
+    "dateTime": "2025-04-08T12:32:36.414Z",
+    "firstSeen": "2025-04-08T12:32:36.414Z",
     "updated": false,
-    "phone": "0985818538",
+    "phone": "0633006487",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_cx_3_38123790.html",
+    "currentPrice": "13 500",
+    "dateTime": "2025-04-08T12:32:36.414Z",
+    "firstSeen": "2025-04-08T12:32:36.414Z",
+    "updated": false,
+    "phone": "0508877926",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_a3_38123786.html",
+    "currentPrice": "14 300",
+    "dateTime": "2025-04-08T12:32:36.415Z",
+    "firstSeen": "2025-04-08T12:32:36.415Z",
+    "updated": false,
+    "phone": "0968048888",
+    "count": 292
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_a4_36881959.html",
+    "currentPrice": "14 300",
+    "dateTime": "2025-04-08T12:32:36.415Z",
+    "firstSeen": "2025-04-08T12:32:36.415Z",
+    "updated": false,
+    "phone": "0958104553",
+    "count": 10
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_citroen_c3_37948972.html",
+    "currentPrice": "14 700",
+    "dateTime": "2025-04-08T12:32:36.415Z",
+    "firstSeen": "2025-04-08T12:32:36.415Z",
+    "updated": false,
+    "phone": "0675178403",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_escape_35669317.html",
+    "currentPrice": "15 400",
+    "dateTime": "2025-04-08T12:32:36.415Z",
+    "firstSeen": "2025-04-08T12:32:36.415Z",
+    "updated": false,
+    "phone": "0688491215",
+    "count": 16
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_a6_38123627.html",
+    "currentPrice": "15 500",
+    "dateTime": "2025-04-08T12:32:36.416Z",
+    "firstSeen": "2025-04-08T12:32:36.416Z",
+    "updated": false,
+    "phone": "0982298773",
+    "count": 6
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_suzuki_ignis_38123835.html",
+    "currentPrice": "15 500",
+    "dateTime": "2025-04-08T12:32:36.416Z",
+    "firstSeen": "2025-04-08T12:32:36.416Z",
+    "updated": false,
+    "phone": "0686799900",
+    "count": 41
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_toyota_highlander_38123905.html",
+    "currentPrice": "15 700",
+    "dateTime": "2025-04-08T12:32:36.416Z",
+    "firstSeen": "2025-04-08T12:32:36.416Z",
+    "updated": false,
+    "phone": "0958440590",
+    "count": 11
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_subaru_legacy_37975577.html",
+    "currentPrice": "16 400",
+    "dateTime": "2025-04-08T12:32:36.417Z",
+    "firstSeen": "2025-04-08T12:32:36.417Z",
+    "updated": false,
+    "phone": "0952300047",
+    "count": 21
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_jeep_compass_38123741.html",
+    "currentPrice": "16 900",
+    "dateTime": "2025-04-08T12:32:36.417Z",
+    "firstSeen": "2025-04-08T12:32:36.417Z",
+    "updated": false,
+    "phone": "0672766234",
+    "count": 36
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_cx_3_37739164.html",
+    "currentPrice": "16 950",
+    "dateTime": "2025-04-08T12:32:36.417Z",
+    "firstSeen": "2025-04-08T12:32:36.417Z",
+    "updated": false,
+    "phone": "0997747010",
+    "count": 7
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mitsubishi_outlander_38123994.html",
+    "currentPrice": "17 500",
+    "dateTime": "2025-04-08T12:32:36.417Z",
+    "firstSeen": "2025-04-08T12:32:36.417Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_jeep_cherokee_38123667.html",
+    "currentPrice": "18 900",
+    "dateTime": "2025-04-08T12:32:36.417Z",
+    "firstSeen": "2025-04-08T12:32:36.417Z",
+    "updated": false,
+    "phone": "0974022022",
+    "count": 43
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_fiesta_38124009.html",
+    "currentPrice": "5 850",
+    "dateTime": "2025-04-08T12:39:11.783Z",
+    "firstSeen": "2025-04-08T12:39:11.783Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_renault_logan_38123992.html",
+    "currentPrice": "7 800",
+    "dateTime": "2025-04-08T12:39:11.783Z",
+    "firstSeen": "2025-04-08T12:39:11.783Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_beetle_37789423.html",
+    "currentPrice": "9 699",
+    "dateTime": "2025-04-08T12:39:11.784Z",
+    "firstSeen": "2025-04-08T12:39:11.784Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_bmw_x1_38124038.html",
+    "currentPrice": "10 900",
+    "dateTime": "2025-04-08T12:39:11.785Z",
+    "firstSeen": "2025-04-08T12:39:11.785Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_nissan_rogue_38123796.html",
+    "currentPrice": "14 500",
+    "dateTime": "2025-04-08T12:39:11.785Z",
+    "firstSeen": "2025-04-08T12:39:11.785Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_skoda_kamiq_38123965.html",
+    "currentPrice": "18 900",
+    "dateTime": "2025-04-08T12:39:11.788Z",
+    "firstSeen": "2025-04-08T12:39:11.788Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_nissan_rogue_38124086.html",
+    "currentPrice": "12 300",
+    "dateTime": "2025-04-08T12:49:18.232Z",
+    "firstSeen": "2025-04-08T12:49:18.232Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_lexus_es_38124167.html",
+    "currentPrice": "17 500",
+    "dateTime": "2025-04-08T12:59:27.876Z",
+    "firstSeen": "2025-04-08T12:59:27.876Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_getz_38124210.html",
+    "currentPrice": "5 999",
+    "dateTime": "2025-04-08T13:03:34.210Z",
+    "firstSeen": "2025-04-08T13:03:34.210Z",
+    "updated": false,
+    "phone": "0965184939",
+    "count": 107
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_mondeo_37971956.html",
+    "currentPrice": "6 900",
+    "dateTime": "2025-04-08T13:09:37.185Z",
+    "firstSeen": "2025-04-08T13:09:37.185Z",
+    "updated": false,
+    "phone": "0667524341",
+    "count": 3
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_suzuki_splash_37971902.html",
+    "currentPrice": "7 203",
+    "dateTime": "2025-04-08T13:09:37.185Z",
+    "firstSeen": "2025-04-08T13:09:37.185Z",
+    "updated": false,
+    "phone": "0992142484",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_skoda_octavia_37168415.html",
+    "currentPrice": "12 400",
+    "dateTime": "2025-04-08T13:09:37.186Z",
+    "firstSeen": "2025-04-08T13:09:37.186Z",
+    "updated": false,
+    "phone": "0965749900",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chrysler_200_37972160.html",
+    "currentPrice": "12 499",
+    "dateTime": "2025-04-08T13:09:37.186Z",
+    "firstSeen": "2025-04-08T13:09:37.186Z",
+    "updated": false,
+    "phone": "0975505732",
+    "count": 4
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_tiguan_37834784.html",
+    "currentPrice": "16 300",
+    "dateTime": "2025-04-08T13:09:37.187Z",
+    "firstSeen": "2025-04-08T13:09:37.187Z",
+    "updated": false,
+    "phone": "0509499212",
+    "count": 6
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_subaru_legacy_37834608.html",
+    "currentPrice": "19 500",
+    "dateTime": "2025-04-08T13:09:37.187Z",
+    "firstSeen": "2025-04-08T13:09:37.187Z",
+    "updated": false,
+    "phone": "0631360606",
+    "count": 3
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_q5_37458312.html",
+    "currentPrice": "19 900",
+    "dateTime": "2025-04-08T13:09:37.188Z",
+    "firstSeen": "2025-04-08T13:09:37.188Z",
+    "updated": false,
+    "phone": "0631202025",
+    "count": 3
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_a4_38124336.html",
+    "currentPrice": "19 999",
+    "dateTime": "2025-04-08T13:19:54.815Z",
+    "firstSeen": "2025-04-08T13:19:54.815Z",
+    "updated": false,
+    "phone": "0994348407",
+    "count": 0
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_sonata_37940014.html",
+    "currentPrice": "14 500",
+    "dateTime": "2025-04-08T13:40:04.072Z",
+    "firstSeen": "2025-04-08T13:40:04.072Z",
+    "updated": false,
+    "phone": "0967575597",
+    "count": 70
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_matrix_38124454.html",
+    "currentPrice": "5 600",
+    "dateTime": "2025-04-08T13:50:11.487Z",
+    "firstSeen": "2025-04-08T13:50:11.487Z",
+    "updated": false,
+    "phone": "0665738973",
+    "count": 19
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_optima_38124466.html",
+    "currentPrice": "8 999",
+    "dateTime": "2025-04-08T13:50:11.488Z",
+    "firstSeen": "2025-04-08T13:50:11.488Z",
+    "updated": false,
+    "phone": "0985640777",
+    "count": 435
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_fusion_37514060.html",
+    "currentPrice": "10 500",
+    "dateTime": "2025-04-08T13:50:11.489Z",
+    "firstSeen": "2025-04-08T13:50:11.489Z",
+    "updated": false,
+    "phone": "0955579946",
+    "count": 0
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_renault_megane_38124479.html",
+    "currentPrice": "8 700",
+    "dateTime": "2025-04-08T14:00:15.425Z",
+    "firstSeen": "2025-04-08T14:00:15.425Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_sportage_38124517.html",
+    "currentPrice": "18 300",
+    "dateTime": "2025-04-08T14:00:15.426Z",
+    "firstSeen": "2025-04-08T14:00:15.426Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_opel_astra_37696590.html",
+    "currentPrice": "4 200",
+    "dateTime": "2025-04-08T14:10:31.808Z",
+    "firstSeen": "2025-04-08T14:10:31.808Z",
+    "updated": false,
+    "phone": "0961266731",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_lacetti_38124619.html",
+    "currentPrice": "5 200",
+    "dateTime": "2025-04-08T14:10:31.808Z",
+    "firstSeen": "2025-04-08T14:10:31.808Z",
+    "updated": false,
+    "phone": "0950470491",
     "count": 2
   },
   {
-    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_38070471.html",
-    "currentPrice": "7 500",
-    "dateTime": "2025-04-01T08:39:28.745Z",
-    "firstSeen": "2025-04-01T08:39:28.745Z",
+    "url": "https://auto.ria.com/uk/auto_volkswagen_golf_37315083.html",
+    "currentPrice": "8 200",
+    "dateTime": "2025-04-08T14:10:31.809Z",
+    "firstSeen": "2025-04-08T14:10:31.809Z",
     "updated": false,
-    "phone": "0994770371",
-    "count": 71
+    "phone": "0969754624",
+    "count": 2
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_37972414.html",
+    "currentPrice": "9 400",
+    "dateTime": "2025-04-08T14:10:31.809Z",
+    "firstSeen": "2025-04-08T14:10:31.809Z",
+    "updated": false,
+    "phone": "0981344440",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_escape_37585228.html",
+    "currentPrice": "11 900",
+    "dateTime": "2025-04-08T14:10:31.810Z",
+    "firstSeen": "2025-04-08T14:10:31.810Z",
+    "updated": false,
+    "phone": "0638902772",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_37585643.html",
+    "currentPrice": "12 300",
+    "dateTime": "2025-04-08T14:10:31.810Z",
+    "firstSeen": "2025-04-08T14:10:31.810Z",
+    "updated": false,
+    "phone": "0962119494",
+    "count": 3
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_jetta_37021986.html",
+    "currentPrice": "13 400",
+    "dateTime": "2025-04-08T14:10:31.810Z",
+    "firstSeen": "2025-04-08T14:10:31.810Z",
+    "updated": false,
+    "phone": "0500355051",
+    "count": 3
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_renault_trafic_37696456.html",
+    "currentPrice": "15 000",
+    "dateTime": "2025-04-08T14:10:31.810Z",
+    "firstSeen": "2025-04-08T14:10:31.810Z",
+    "updated": false,
+    "phone": "0966013341",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_renault_trafic_37972552.html",
+    "currentPrice": "15 500",
+    "dateTime": "2025-04-08T14:10:31.811Z",
+    "firstSeen": "2025-04-08T14:10:31.811Z",
+    "updated": false,
+    "phone": "0978881121",
+    "count": 2
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_land_rover_range_rover_evoque_36264098.html",
+    "currentPrice": "15 800",
+    "dateTime": "2025-04-08T14:10:31.811Z",
+    "firstSeen": "2025-04-08T14:10:31.811Z",
+    "updated": false,
+    "phone": "0676396060",
+    "count": 5
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_tiguan_37021786.html",
+    "currentPrice": "17 000",
+    "dateTime": "2025-04-08T14:10:31.811Z",
+    "firstSeen": "2025-04-08T14:10:31.811Z",
+    "updated": false,
+    "phone": "0660508591",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_sonata_37972461.html",
+    "currentPrice": "5 900",
+    "dateTime": "2025-04-08T14:30:58.325Z",
+    "firstSeen": "2025-04-08T14:30:58.325Z",
+    "updated": false,
+    "phone": "0966618375",
+    "count": 6
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_honda_cr_v_38124735.html",
+    "currentPrice": "12 000",
+    "dateTime": "2025-04-08T14:30:58.326Z",
+    "firstSeen": "2025-04-08T14:30:58.326Z",
+    "updated": false,
+    "phone": "0675644490",
+    "count": 109
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_honda_pilot_38124691.html",
+    "currentPrice": "14 000",
+    "dateTime": "2025-04-08T14:30:58.326Z",
+    "firstSeen": "2025-04-08T14:30:58.326Z",
+    "updated": false,
+    "phone": "0960000402",
+    "count": 0
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_toyota_camry_38028758.html",
+    "currentPrice": "15 300",
+    "dateTime": "2025-04-08T14:30:58.327Z",
+    "firstSeen": "2025-04-08T14:30:58.327Z",
+    "updated": false,
+    "phone": "0676327538",
+    "count": 8
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_cruze_37838975.html",
+    "currentPrice": "7 900",
+    "dateTime": "2025-04-08T14:41:14.331Z",
+    "firstSeen": "2025-04-08T14:41:14.331Z",
+    "updated": false,
+    "phone": "0501647591",
+    "count": 2
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mitsubishi_outlander_37027211.html",
+    "currentPrice": "12 399",
+    "dateTime": "2025-04-08T14:41:14.333Z",
+    "firstSeen": "2025-04-08T14:41:14.333Z",
+    "updated": false,
+    "phone": "0973031377",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_malibu_38124831.html",
+    "currentPrice": "10 800",
+    "dateTime": "2025-04-08T14:51:18.069Z",
+    "firstSeen": "2025-04-08T14:51:18.069Z",
+    "updated": false,
+    "phone": "0973856589",
+    "count": 0
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_suzuki_grand_vitara_38078382.html",
+    "currentPrice": "8 700",
+    "dateTime": "2025-04-08T15:01:32.578Z",
+    "firstSeen": "2025-04-08T15:01:32.578Z",
+    "updated": false,
+    "phone": "0952562311",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_elantra_38124872.html",
+    "currentPrice": "10 250",
+    "dateTime": "2025-04-08T15:01:32.578Z",
+    "firstSeen": "2025-04-08T15:01:32.578Z",
+    "updated": false,
+    "phone": "0954569901",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_getz_37972978.html",
+    "currentPrice": "4 300",
+    "dateTime": "2025-04-08T15:11:40.481Z",
+    "firstSeen": "2025-04-08T15:11:40.481Z",
+    "updated": false,
+    "phone": "0987923396",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_aveo_35336027.html",
+    "currentPrice": "4 300",
+    "dateTime": "2025-04-08T15:11:40.482Z",
+    "firstSeen": "2025-04-08T15:11:40.482Z",
+    "updated": false,
+    "phone": "0668303602",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mitsubishi_galant_38119041.html",
+    "currentPrice": "6 450",
+    "dateTime": "2025-04-08T15:11:40.482Z",
+    "firstSeen": "2025-04-08T15:11:40.482Z",
+    "updated": false,
+    "phone": "0689164748",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_6_36739361.html",
+    "currentPrice": "8 500",
+    "dateTime": "2025-04-08T15:11:40.483Z",
+    "firstSeen": "2025-04-08T15:11:40.483Z",
+    "updated": false,
+    "phone": "0963837846",
+    "count": 0
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_toyota_camry_34159202.html",
+    "currentPrice": "9 500",
+    "dateTime": "2025-04-08T15:11:40.483Z",
+    "firstSeen": "2025-04-08T15:11:40.483Z",
+    "updated": false,
+    "phone": "0933885414",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_renault_logan_37973039.html",
+    "currentPrice": "9 700",
+    "dateTime": "2025-04-08T15:11:40.484Z",
+    "firstSeen": "2025-04-08T15:11:40.484Z",
+    "updated": false,
+    "phone": "0930223203",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_38124940.html",
+    "currentPrice": "10 500",
+    "dateTime": "2025-04-08T15:11:40.484Z",
+    "firstSeen": "2025-04-08T15:11:40.484Z",
+    "updated": false,
+    "phone": "0675678870",
+    "count": 4
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_focus_38124938.html",
+    "currentPrice": "14 800",
+    "dateTime": "2025-04-08T15:11:40.485Z",
+    "firstSeen": "2025-04-08T15:11:40.485Z",
+    "updated": false,
+    "phone": "0984408933",
+    "count": 806
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_6_37835262.html",
+    "currentPrice": "14 999",
+    "dateTime": "2025-04-08T15:11:40.485Z",
+    "firstSeen": "2025-04-08T15:11:40.485Z",
+    "updated": false,
+    "phone": "0982720262",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_toyota_land_cruiser_prado_37168944.html",
+    "currentPrice": "16 000",
+    "dateTime": "2025-04-08T15:11:40.486Z",
+    "firstSeen": "2025-04-08T15:11:40.486Z",
+    "updated": false,
+    "phone": "0934313290",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_cx_5_37585757.html",
+    "currentPrice": "18 500",
+    "dateTime": "2025-04-08T15:11:40.486Z",
+    "firstSeen": "2025-04-08T15:11:40.486Z",
+    "updated": false,
+    "phone": "0970208940",
+    "count": 44
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mitsubishi_outlander_xl_37887877.html",
+    "currentPrice": "8 990",
+    "dateTime": "2025-04-08T15:21:45.821Z",
+    "firstSeen": "2025-04-08T15:21:45.821Z",
+    "updated": false,
+    "phone": "0662150664",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_i30_38001729.html",
+    "currentPrice": "5 500",
+    "dateTime": "2025-04-08T15:31:47.856Z",
+    "firstSeen": "2025-04-08T15:31:47.856Z",
+    "updated": false,
+    "phone": "0953574112",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_escape_38125075.html",
+    "currentPrice": "13 500",
+    "dateTime": "2025-04-08T15:31:47.858Z",
+    "firstSeen": "2025-04-08T15:31:47.858Z",
+    "updated": false,
+    "phone": "0993220854",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_subaru_forester_38125013.html",
+    "currentPrice": "14 500",
+    "dateTime": "2025-04-08T15:31:47.858Z",
+    "firstSeen": "2025-04-08T15:31:47.858Z",
+    "updated": false,
+    "phone": "0965902337",
+    "count": 56
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_cruze_37574356.html",
+    "currentPrice": "7 990",
+    "dateTime": "2025-04-08T15:52:11.000Z",
+    "firstSeen": "2025-04-08T15:52:11.000Z",
+    "updated": false,
+    "phone": "0953255131",
+    "count": 8
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_a6_38125054.html",
+    "currentPrice": "13 500",
+    "dateTime": "2025-04-08T15:52:11.001Z",
+    "firstSeen": "2025-04-08T15:52:11.001Z",
+    "updated": false,
+    "phone": "0635672044",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mercedes_benz_c_class_37882447.html",
+    "currentPrice": "10 000",
+    "dateTime": "2025-04-08T16:05:14.035Z",
+    "firstSeen": "2025-04-08T16:05:14.035Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_nissan_qashqai_38125143.html",
+    "currentPrice": "10 900",
+    "dateTime": "2025-04-08T16:05:14.036Z",
+    "firstSeen": "2025-04-08T16:05:14.036Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_toyota_camry_38125080.html",
+    "currentPrice": "20 000",
+    "dateTime": "2025-04-08T16:05:14.041Z",
+    "firstSeen": "2025-04-08T16:05:14.041Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_aveo_33587529.html",
+    "currentPrice": "4 800",
+    "dateTime": "2025-04-08T16:06:10.097Z",
+    "firstSeen": "2025-04-08T16:06:10.097Z",
+    "updated": false,
+    "phone": "0996086638",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_niva_34158860.html",
+    "currentPrice": "5 500",
+    "dateTime": "2025-04-08T16:06:10.098Z",
+    "firstSeen": "2025-04-08T16:06:10.098Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mg_3_cross_38125182.html",
+    "currentPrice": "6 200",
+    "dateTime": "2025-04-08T16:06:10.098Z",
+    "firstSeen": "2025-04-08T16:06:10.098Z",
+    "updated": false,
+    "phone": "0993527676",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_i30_37976174.html",
+    "currentPrice": "6 300",
+    "dateTime": "2025-04-08T16:06:10.098Z",
+    "firstSeen": "2025-04-08T16:06:10.098Z",
+    "updated": false,
+    "phone": "0950644028",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ssangyong_rexton_37053041.html",
+    "currentPrice": "12 000",
+    "dateTime": "2025-04-08T16:06:10.100Z",
+    "firstSeen": "2025-04-08T16:06:10.100Z",
+    "updated": false,
+    "phone": "0970912233",
+    "count": 10
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_37450414.html",
+    "currentPrice": "12 700",
+    "dateTime": "2025-04-08T16:06:10.100Z",
+    "firstSeen": "2025-04-08T16:06:10.100Z",
+    "updated": false,
+    "phone": "0939652812",
+    "count": 171
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_rio_38124936.html",
+    "currentPrice": "18 100",
+    "dateTime": "2025-04-08T16:06:10.101Z",
+    "firstSeen": "2025-04-08T16:06:10.101Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_sonata_37520596.html",
+    "currentPrice": "4 800",
+    "dateTime": "2025-04-08T17:28:50.937Z",
+    "firstSeen": "2025-04-08T17:28:50.937Z",
+    "updated": false,
+    "phone": "0992285117",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_cruze_37023135.html",
+    "currentPrice": "6 000",
+    "dateTime": "2025-04-08T17:28:50.937Z",
+    "firstSeen": "2025-04-08T17:28:50.937Z",
+    "updated": false,
+    "phone": "0994609914",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_3_38125602.html",
+    "currentPrice": "6 200",
+    "dateTime": "2025-04-08T17:28:50.938Z",
+    "firstSeen": "2025-04-08T17:28:50.938Z",
+    "updated": false,
+    "phone": "0508448729",
+    "count": 0
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_opel_vectra_37317886.html",
+    "currentPrice": "6 800",
+    "dateTime": "2025-04-08T17:28:50.938Z",
+    "firstSeen": "2025-04-08T17:28:50.938Z",
+    "updated": false,
+    "phone": "0934309135",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_cerato_37458561.html",
+    "currentPrice": "7 200",
+    "dateTime": "2025-04-08T17:28:50.938Z",
+    "firstSeen": "2025-04-08T17:28:50.938Z",
+    "updated": false,
+    "phone": "0633787151",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_rio_37459425.html",
+    "currentPrice": "7 550",
+    "dateTime": "2025-04-08T17:28:50.939Z",
+    "firstSeen": "2025-04-08T17:28:50.939Z",
+    "updated": false,
+    "phone": "0959383078",
+    "count": 2
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_hyundai_accent_37973888.html",
+    "currentPrice": "8 200",
+    "dateTime": "2025-04-08T17:28:50.939Z",
+    "firstSeen": "2025-04-08T17:28:50.939Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_6_36944293.html",
+    "currentPrice": "10 800",
+    "dateTime": "2025-04-08T17:28:50.939Z",
+    "firstSeen": "2025-04-08T17:28:50.939Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_captiva_36878560.html",
+    "currentPrice": "11 800",
+    "dateTime": "2025-04-08T17:28:50.939Z",
+    "firstSeen": "2025-04-08T17:28:50.939Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_passat_37836037.html",
+    "currentPrice": "12 800",
+    "dateTime": "2025-04-08T17:28:50.940Z",
+    "firstSeen": "2025-04-08T17:28:50.940Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_honda_cr_v_38125351.html",
+    "currentPrice": "13 200",
+    "dateTime": "2025-04-08T17:28:50.940Z",
+    "firstSeen": "2025-04-08T17:28:50.940Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_tiguan_36165130.html",
+    "currentPrice": "13 500",
+    "dateTime": "2025-04-08T17:28:50.940Z",
+    "firstSeen": "2025-04-08T17:28:50.940Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_jeep_renegade_36879258.html",
+    "currentPrice": "14 700",
+    "dateTime": "2025-04-08T17:28:50.940Z",
+    "firstSeen": "2025-04-08T17:28:50.940Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_renault_duster_34558415.html",
+    "currentPrice": "15 300",
+    "dateTime": "2025-04-08T17:28:50.940Z",
+    "firstSeen": "2025-04-08T17:28:50.940Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_sportage_36410227.html",
+    "currentPrice": "18 500",
+    "dateTime": "2025-04-08T17:28:50.940Z",
+    "firstSeen": "2025-04-08T17:28:50.940Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_audi_a4_38125377.html",
+    "currentPrice": "18 700",
+    "dateTime": "2025-04-08T17:28:50.941Z",
+    "firstSeen": "2025-04-08T17:28:50.941Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mitsubishi_outlander_36737608.html",
+    "currentPrice": "19 500",
+    "dateTime": "2025-04-08T17:28:50.941Z",
+    "firstSeen": "2025-04-08T17:28:50.941Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_bmw_x5_33839348.html",
+    "currentPrice": "19 500",
+    "dateTime": "2025-04-08T17:28:50.941Z",
+    "firstSeen": "2025-04-08T17:28:50.941Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_bmw_x3_37233473.html",
+    "currentPrice": "20 000",
+    "dateTime": "2025-04-08T17:28:50.941Z",
+    "firstSeen": "2025-04-08T17:28:50.941Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_chevrolet_epica_38125676.html",
+    "currentPrice": "5 000",
+    "dateTime": "2025-04-08T18:00:52.387Z",
+    "firstSeen": "2025-04-08T18:00:52.387Z",
+    "updated": false,
+    "phone": "0985102311",
+    "count": 1
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_golf_38125736.html",
+    "currentPrice": "6 777",
+    "dateTime": "2025-04-08T18:00:52.390Z",
+    "firstSeen": "2025-04-08T18:00:52.390Z",
+    "updated": false,
+    "phone": "0667277277",
+    "count": 83
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_tiguan_37948839.html",
+    "currentPrice": "12 800",
+    "dateTime": "2025-04-08T18:00:52.396Z",
+    "firstSeen": "2025-04-08T18:00:52.396Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_ford_fusion_38125671.html",
+    "currentPrice": "13 999",
+    "dateTime": "2025-04-08T18:00:52.398Z",
+    "firstSeen": "2025-04-08T18:00:52.398Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_opel_astra_38125840.html",
+    "currentPrice": "6 200",
+    "dateTime": "2025-04-08T18:26:20.163Z",
+    "firstSeen": "2025-04-08T18:26:20.163Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_ceed_37973050.html",
+    "currentPrice": "6 300",
+    "dateTime": "2025-04-08T18:26:20.163Z",
+    "firstSeen": "2025-04-08T18:26:20.163Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_citroen_c4_cactus_37459036.html",
+    "currentPrice": "9 899",
+    "dateTime": "2025-04-08T18:26:20.164Z",
+    "firstSeen": "2025-04-08T18:26:20.164Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_kia_cerato_koup_36253596.html",
+    "currentPrice": "10 000",
+    "dateTime": "2025-04-08T18:26:20.164Z",
+    "firstSeen": "2025-04-08T18:26:20.164Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_fiat_500_37974290.html",
+    "currentPrice": "10 500",
+    "dateTime": "2025-04-08T18:26:20.164Z",
+    "firstSeen": "2025-04-08T18:26:20.164Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_nissan_rogue_37586596.html",
+    "currentPrice": "13 000",
+    "dateTime": "2025-04-08T18:26:20.164Z",
+    "firstSeen": "2025-04-08T18:26:20.164Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_bmw_3_series_38125719.html",
+    "currentPrice": "15 000",
+    "dateTime": "2025-04-08T18:26:20.164Z",
+    "firstSeen": "2025-04-08T18:26:20.164Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_mazda_3_37318907.html",
+    "currentPrice": "17 500",
+    "dateTime": "2025-04-08T18:26:20.164Z",
+    "firstSeen": "2025-04-08T18:26:20.164Z",
+    "updated": false
+  },
+  {
+    "url": "https://auto.ria.com/uk/auto_volkswagen_tiguan_37698265.html",
+    "currentPrice": "19 500",
+    "dateTime": "2025-04-08T18:26:20.165Z",
+    "firstSeen": "2025-04-08T18:26:20.165Z",
+    "updated": false
   }
 ]
